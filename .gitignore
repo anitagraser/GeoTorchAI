@@ -1,0 +1,5 @@
+
+data/taxi_trip/yellow_tripdata_2009-01.csv
+binders/model-stresnet/model.pt
+data/deepstn/flow_data.npy
+data/deepstn/poi_data.npy
